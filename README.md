@@ -24,7 +24,7 @@ Sample `.pre-commit-config.yaml`:
 
 ```yaml
 - repo: https://github.com/imc-trading/verible-py.git
-    rev: v0.0-3426
+    rev: v0.0-3824
     hooks:
       - id: verible-verilog-lint
       - id: verible-verilog-format
